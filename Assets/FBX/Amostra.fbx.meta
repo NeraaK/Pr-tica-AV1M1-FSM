@@ -1,0 +1,532 @@
+fileFormatVersion: 2
+guid: 1e9b5e28582be224985ed027a2a404f4
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AmareloCogumelo
+    second: {fileID: 2100000, guid: b12a7e76e3815274b823bd4c2fba57ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AneisCanhao
+    second: {fileID: 2100000, guid: 715837a6c1af96b4da0e9502813f71ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ArvoreOval
+    second: {fileID: 2100000, guid: f09b2ea0bbfeded4c82c47ded6189625, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ArvoreRedonda
+    second: {fileID: 2100000, guid: 2929ac9d1156ece47bb207c1ef5339c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AsteCanhao
+    second: {fileID: 2100000, guid: 4d6466b2e953a944aacf10880de4c4a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AzulCogumelo
+    second: {fileID: 2100000, guid: c836e31f55b213d44b7e6aa733b72f68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AzulEstandarteCastelo
+    second: {fileID: 2100000, guid: e66fe02faad693a40a512c606dd38e06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseCanhao
+    second: {fileID: 2100000, guid: 399b3c6745ef54a4489842077a319413, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BolasDeChanhao
+    second: {fileID: 2100000, guid: 0668414fb03d6f54693e0991fac76667, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BordaHexagono
+    second: {fileID: 2100000, guid: 54bedd1ed74caa446aef8de25d260483, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Branco
+    second: {fileID: 2100000, guid: 11f61d22ed68a784b91bf7fa08268029, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cajado
+    second: {fileID: 2100000, guid: 4db79bb2c26bd9f469c0ccbe55644a08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Canhao
+    second: {fileID: 2100000, guid: 241e46de095a94b43b2534d0063fa577, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CauleCogumelo
+    second: {fileID: 2100000, guid: 2e0e85e9b6768024b8539ee2fafd85a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CinzaCastelo
+    second: {fileID: 2100000, guid: 31ef03e31b6825446a39579722b610d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CinzaCasteloEscuro
+    second: {fileID: 2100000, guid: 514ef96d2c17f6c4eb7f23d813ef04da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CinzaEscuroTorre
+    second: {fileID: 2100000, guid: 1cc4ea78d541f184787225d4b5bc009b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CinzaTorre
+    second: {fileID: 2100000, guid: 440640b3d52bc244887418af8fd2fedb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DetalheBarril
+    second: {fileID: 2100000, guid: e71eab661265c9c40860a174c260f42f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escada
+    second: {fileID: 2100000, guid: 50f97a6268d3fe54dade9bea867fce6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EsferaCajado
+    second: {fileID: 2100000, guid: 756412da3536f634288239b159ab4a85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FolhaCoqueiro
+    second: {fileID: 2100000, guid: 02188613a0cffc44f9dbe8b7b11f18c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FolhasArvoreGrande
+    second: {fileID: 2100000, guid: 5c077faddfe35b348a326868b07a48d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FolhasArvoreGrande.001
+    second: {fileID: 2100000, guid: ebe925864441d8245a02d8a671915310, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FolhasArvoreGrande2
+    second: {fileID: 2100000, guid: 4a0f65f41c7578e4dbfa98d0acba9b7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FolhasArvoreTroncoBranco
+    second: {fileID: 2100000, guid: 6076615b749e43b4d8d3913d5bb2fde1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrutaCoqueiro
+    second: {fileID: 2100000, guid: ca58de564afb56842a0531aaeae3d0d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laranja
+    second: {fileID: 2100000, guid: 9aa6604e02e8f2d4ea066bc1bb5e27b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LaranjaPinheitoQuadrado
+    second: {fileID: 2100000, guid: 704f34da1b561ea49a4368acf1e22ff2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Luva
+    second: {fileID: 2100000, guid: b1405327e744aa541b12841e689a4015, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira Topo Torre
+    second: {fileID: 2100000, guid: 2ed78836c73ce384b8a072a268ed2bfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MadeiraBarril.001
+    second: {fileID: 2100000, guid: 0820fc230fa96284d93fd7785775d2b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MadeiraCastelo
+    second: {fileID: 2100000, guid: b3426755009ae8b41af36f66b9845619, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MadeiraPortaCastelo
+    second: {fileID: 2100000, guid: d453f7a5d9fe603458c8af0e0824ec8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MadeiraTorre
+    second: {fileID: 2100000, guid: cd6eaff078f39c3479b4f0c286284c8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MarromCaidoTroncoPodre
+    second: {fileID: 2100000, guid: 0f925b655df3c884a98717e92f1c963d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MarromTronco
+    second: {fileID: 2100000, guid: 6553145eed4098a4988f0dcd287e5b0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MarromTroncoCaido
+    second: {fileID: 2100000, guid: ad59476ede6f972478a3ee761317f6b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: a54b28cf7e4a7c746a529c02b6ebb41c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: 8af00a72e230d3f4882e920808b0393d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: 371c542a4fa78914ba1e216daf5e9590, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: bca0bd143c2ed314d9d2e654785c8afa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: 2d1756a5ecdfce94dbdd09e4a085b7e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.015
+    second: {fileID: 2100000, guid: 947776ab1641ae240afb9d7592280485, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.016
+    second: {fileID: 2100000, guid: 3f5d0833bf88be047b74ec9ea8d5d631, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.017
+    second: {fileID: 2100000, guid: c659dc22f7ec67143a3d03aa469f78a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.018
+    second: {fileID: 2100000, guid: fc45ec6962c1cbb4ea110d783c46c310, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MeiodaFolhaCoqueiro
+    second: {fileID: 2100000, guid: 953dee51f7ce0a0409b62be92110ea30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalBarril
+    second: {fileID: 2100000, guid: 8a4bccc714235ac4e84bdac1bc86e72c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalCastelo
+    second: {fileID: 2100000, guid: b40748b944642a7428f4a11ce8982399, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MioloTronco
+    second: {fileID: 2100000, guid: 1fc3e965bfc5e204d904f1204999f07b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pedra
+    second: {fileID: 2100000, guid: a1387391eee3ae14886c2a7b432621ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PedraMarrom
+    second: {fileID: 2100000, guid: fb1fcfce809e78544b1ccdcee414892d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoxoClaro
+    second: {fileID: 2100000, guid: a0b81b086d745f540be452ede8103a08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoxoEscuro
+    second: {fileID: 2100000, guid: dd4818a1ec3735747a32699d07594e79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Terra
+    second: {fileID: 2100000, guid: e5c8f949eede9f14596c08013fc23932, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TerraClaro
+    second: {fileID: 2100000, guid: e2257a9d1205f61408c393447e7f8151, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TijoloTorre
+    second: {fileID: 2100000, guid: 4f985d76be43b1e4b835dfe17bf21306, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TroncoArvora
+    second: {fileID: 2100000, guid: 08f610996cdd68d47a89d749623afe10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TroncoArvoreBolinhas
+    second: {fileID: 2100000, guid: 59fb86c584dd43e4fab5399a19636794, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TroncoArvoreCubo
+    second: {fileID: 2100000, guid: 63286a5578237fc4eb528cd03b5f69c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TroncoArvoreGrande
+    second: {fileID: 2100000, guid: 1b74adde05195724aa792d5149c34f68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TroncoArvoreOval
+    second: {fileID: 2100000, guid: 936aa916cdf93154eaee2a270416f368, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TroncoArvoreRaiz
+    second: {fileID: 2100000, guid: 606cce86ed2bd524b8bdb0307ea81274, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TroncoArvoreRedonda
+    second: {fileID: 2100000, guid: d6ce2d1b91b32794bb99291cf6ec104c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TroncoPalmeira
+    second: {fileID: 2100000, guid: d0e74c58d89335b43b5bd5a4be88b1b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TroncoPiinheiroQuadrado
+    second: {fileID: 2100000, guid: 41e08ccecfaf1da449debcfbd4cea680, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TroncoPinheiroGrande
+    second: {fileID: 2100000, guid: 9f2f41f016f2d9b438a7edc4cbfbce07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TroncoPinhiero
+    second: {fileID: 2100000, guid: f1c9f89248c0e714286256e435837977, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TroncoTrinaguloGrande
+    second: {fileID: 2100000, guid: 1ab45a5f6e70b0f4c9ed7458e9445b9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VerdeArvoreBolinhas
+    second: {fileID: 2100000, guid: 236df8088140ac44d9ebafb89aa87c99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VerdeArvoreCubo
+    second: {fileID: 2100000, guid: 661ffdb2abba76b4293fbbebaeb05af6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VerdeArvoreRaiz
+    second: {fileID: 2100000, guid: bcfda9c6c80099046ac83fde6d188588, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VerdeCopaArvore
+    second: {fileID: 2100000, guid: bf146eb949fb2fa4d9de07424cb8c4fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VerdeGrama
+    second: {fileID: 2100000, guid: 3d1ebb62132caf7439fb4c9da71f4f5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VerdeGramaHexagono
+    second: {fileID: 2100000, guid: 2b0942321a21ce14ba10af8e614aa3ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VerdeMAtinhoCoVerdeMatinhoRedondo
+    second: {fileID: 2100000, guid: a59514fde6d17f743ad83407050c842a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VerdeMAtinhoCone
+    second: {fileID: 2100000, guid: 815da4f31dd914f42a3c8906023588f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VerdeMAtinhoConeMenor
+    second: {fileID: 2100000, guid: 1207612bdf4ae014098cdbdd66d08bcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VerdeMoitaOvo
+    second: {fileID: 2100000, guid: f88f20a5b998a7a47a091a9e15a2862f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VerdePinheiro
+    second: {fileID: 2100000, guid: cd1602cad03747c4fa54e5afd46684c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VerdePinheiroGrande
+    second: {fileID: 2100000, guid: 873d96d698e19934aa90698f7eb7de69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VerdePinheiroPequebo
+    second: {fileID: 2100000, guid: f4b938cc506edae479a3557097d10618, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VerdeTrianguloGrande
+    second: {fileID: 2100000, guid: a80e27da6f3304a4cad297c412999a99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VermelhoCogumelo
+    second: {fileID: 2100000, guid: 408d235e8e639254fb0816a07610504a, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
